@@ -1,0 +1,18 @@
+body
+{
+ background-image:url("Bg-2.jpeg");
+ background-position: center;
+ background-size: cover;
+ font-size:20px; 
+ font-family:cursive;
+ color: rgb(255, 255, 255);}
+#output
+{
+background: #fff89b;
+border-radius: 10px;
+border-top: 10px solid #9286ff;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
